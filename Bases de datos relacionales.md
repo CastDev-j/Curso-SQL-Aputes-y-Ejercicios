@@ -43,17 +43,8 @@
 
 ### Relación entre tablas
 
-- Podemos crear dos tablas relacionadas en la misma línea utilizando los siguientes símbolos:
+| Tabla1 |   | Tabla2 |
+|--------|   |--------|
+| Campo1 |<->| Campo3 |
+| Campo2 |   | Campo4 |
 
-```markdown
-| Tabla1 | Tabla2 |
-|--------|--------|
-| Campo1 | Campo3 |
-| Campo2 | Campo4 |
-```
-
-- En este ejemplo, `Tabla1` y `Tabla2` representan los nombres de las tablas, mientras que `Campo1`, `Campo2`, `Campo3` y `Campo4` representan los nombres de los campos.
-
-- La relación entre las tablas se establece mediante la correspondencia de los campos. Por ejemplo, si `Campo1` en `Tabla1` se relaciona con `Campo3` en `Tabla2`, significa que los registros de ambas tablas están relacionados entre sí.
-
-- Esta forma de representar la relación entre tablas es útil cuando queremos mostrar de manera concisa la estructura y la conexión entre las tablas en un documento o archivo.
