@@ -1,70 +1,69 @@
 # Tipos de Datos:
 
-+ Alfanumericos
-+ Alfabeticos
-+ Numéricos
-+ Imagenes
-+ Audio
-+ Video
+- Alfanumericos
+- Alfabeticos
+- Numéricos
+- Imagenes
+- Audio
+- Video
 
 ___
 
 # Que es una base de datos?
 
-* Una base de datos es un conjunto organizado de datos que se almacenan y se acceden de manera eficiente. Permite almacenar, gestionar y recuperar información de manera estructurada, lo que facilita la manipulación y el análisis de los datos.
+Una base de datos es un conjunto organizado de datos que se almacenan y se acceden de manera eficiente. Permite almacenar, gestionar y recuperar información de manera estructurada, lo que facilita la manipulación y el análisis de los datos.
 
 ___
 
 # Modelos de base de datos
 
-+ Fichero plano
-+ jerárquico
-+ En red
-+ Relacional
-+ Orientado a objetos
-+ Hibridos
+- Fichero plano
+- Jerárquico
+- En red
+- Relacional
+- Orientado a objetos
+- Hibridos
 
 ___
 
 # Modelo jerárquico
 
-+ Almacena las tablas jerárquicamente relacionadas entre sí.
-+ Las relaciones entre las tablas son una estructura de árbol.
-+ Relaciones padre-hijo.
+- Almacena las tablas jerárquicamente relacionadas entre sí.
+- Las relaciones entre las tablas son una estructura de árbol.
+- Relaciones padre-hijo.
 
 ___
 
 # Modelo de red
 
-+ Las relaciones entre tablas son una estructura de red.
-+ Las tablas pueden tener más de un padre.
+- Las relaciones entre tablas son una estructura de red.
+- Las tablas pueden tener más de un padre.
 
 ___
 
 # Relacional
 
-+ Los datos se almacenan en tablas relacionadas entre sí.
+- Los datos se almacenan en tablas relacionadas entre sí.
 
 ___
 
 # Modelo de Base de Datos Orientado a Objetos
 
-+ Los datos se almacenan en objetos. (Los campos son atributos).
-+ Las clases describen objetos similares.
-+ Las clases se organizan en una jerarquía de clases como en OOP (pueden tener hijos que heredan sus características).
+- Los datos se almacenan en objetos. (Los campos son atributos).
+- Las clases describen objetos similares.
+- Las clases se organizan en una jerarquía de clases como en OOP (pueden tener hijos que heredan sus características).
 
 ___
 
 # Modelos de Base de Datos Hibridos
 
-+ Combinan características de diferentes modelos de base de datos.
+- Combinan características de diferentes modelos de base de datos.
 
 ___
 
 # Lenguaje de Consulta Estructurado (SQL)
 
-
-
+___
 
 # Símbolos de Markdown y su uso:
 
