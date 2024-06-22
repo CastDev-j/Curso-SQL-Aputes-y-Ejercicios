@@ -26,7 +26,7 @@ Una base de datos es un conjunto organizado de datos que se almacenan y se acced
 
 ---
 
-## Modelo jerárquico
+### Modelo jerárquico
 
 - Almacena las tablas jerárquicamente relacionadas entre sí.
 - Las relaciones entre las tablas son una estructura de árbol.
@@ -34,20 +34,20 @@ Una base de datos es un conjunto organizado de datos que se almacenan y se acced
 
 ---
 
-## Modelo de red
+### Modelo de red
 
 - Las relaciones entre tablas son una estructura de red.
 - Las tablas pueden tener más de un padre.
 
 ---
 
-## Modelo relacional
+### Modelo relacional
 
 - Los datos se almacenan en tablas relacionadas entre sí.
 
 ---
 
-## Modelo de Base de Datos Orientado a Objetos
+### Modelo de Base de Datos Orientado a Objetos
 
 - Los datos se almacenan en objetos (los campos son atributos).
 - Las clases describen objetos similares.
@@ -55,13 +55,13 @@ Una base de datos es un conjunto organizado de datos que se almacenan y se acced
 
 ---
 
-## Modelos de Base de Datos Híbridos
+### Modelos de Base de Datos Híbridos
 
 - Combinan características de diferentes modelos de base de datos.
 
 ---
 
-# Lenguaje de Consulta Estructurado (SQL)
+### Lenguaje de Consulta Estructurado (SQL)
 
 ---
 
