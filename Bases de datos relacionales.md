@@ -48,3 +48,8 @@
 | Clave primaria |<------>| Clave foránea  |
 | Campo generíco |        | Campo generíco |
 
+### Coclusión
+
+- Las bases de datos relacionales permiten relacionar la información de diferentes tablas.
+- Las claves primarias y foráneas son fundamentales para establecer relaciones entre tablas.
+
