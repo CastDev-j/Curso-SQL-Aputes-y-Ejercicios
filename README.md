@@ -1,3 +1,9 @@
+
+<p align="center">
+  <h1>Introducción a SQL y bases de datos relacionales</h1>
+</p>
+
+
 # Tipos de Datos
 
 - **Alfanuméricos**
