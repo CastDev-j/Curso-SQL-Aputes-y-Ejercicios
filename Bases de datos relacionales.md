@@ -1,11 +1,14 @@
 #### [README](README.md)
 
-# Introducción a SQL y bases de datos relacionales
+<div align="center">
+  <h1>Introducción a SQL y bases de datos relacionales</h1>
+</div>
 
-### Tablas o Entidades
+# Tablas o Entidades
 
 - El elemento básico de una base de datos relacional es la tabla o entidad.
 - Las tablas guardan datos de un tipo de entidad (sitios, personas, productos, etc.).
+
 
 **Ejemplo de tabla de personas:**
 
@@ -16,13 +19,27 @@
 | 3  | Carlos  | 28   | Valencia   |
 | 4  | Laura   | 32   | Sevilla    |
 
+---
+
 # Tablas, registros y campos
 
 - **Tabla:** conjunto de registros.
 - **Registro:** fila de la tabla.
 - **Campo:** columna de la tabla.
 
+### Tablas
 
+- Las tablas son el elemento básico de una base de datos relacional.
+- Cada tabla almacena datos de un tipo de entidad (personas, productos, etc.).
+
+---
+
+### Registros
+
+- Un registro es una fila de la tabla.
+- Cada registro almacena información de un elemento de la entidad (una persona, un producto, etc.).
+
+---
 
 ### Campos
 
@@ -33,6 +50,8 @@
   - Formato de sus datos.
 - Un registro equivale a una fila de la tabla.
 
+---
+
 # Relaciones entre tablas
 
 - Las tablas se relacionan entre sí mediante claves.
@@ -41,14 +60,18 @@
   - **Clave primaria:** campo que identifica de forma única a cada registro.
   - **Clave foránea:** campo que enlaza dos tablas.
 
-### Relación entre tablas
+---
+
+### Ejemplo de relación entre tablas
 
 | Tabla Uno      |        | Tabla Dos      |
 |----------------|--------|----------------|
 | Clave primaria |<------>| Clave foránea  |
 | Campo generíco |        | Campo generíco |
 
-### Coclusión
+---
+
+# Coclusión
 
 - Las bases de datos relacionales permiten relacionar la información de diferentes tablas.
 - Las claves primarias y foráneas son fundamentales para establecer relaciones entre tablas.
