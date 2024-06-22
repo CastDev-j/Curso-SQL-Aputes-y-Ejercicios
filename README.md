@@ -1,67 +1,72 @@
-# Tipos de Datos:
+# Tipos de Datos
 
-- Alfanumericos
-- Alfabeticos
-- Numéricos
-- Imagenes
-- Audio
-- Video
+- **Alfanuméricos**
+- **Alfabéticos**
+- **Numéricos**
+- **Imágenes**
+- **Audio**
+- **Video**
 
-___
+---
 
-# Que es una base de datos?
+# ¿Qué es una base de datos?
 
 Una base de datos es un conjunto organizado de datos que se almacenan y se acceden de manera eficiente. Permite almacenar, gestionar y recuperar información de manera estructurada, lo que facilita la manipulación y el análisis de los datos.
 
-___
+---
 
 # Modelos de base de datos
 
-- Fichero plano
-- Jerárquico
-- En red
-- Relacional
-- Orientado a objetos
-- Hibridos
+- **Fichero plano**
+- **Jerárquico**
+- **En red**
+- **Relacional**
+- **Orientado a objetos**
+- **Híbridos**
 
-___
+---
 
-# Modelo jerárquico
+## Modelo jerárquico
 
 - Almacena las tablas jerárquicamente relacionadas entre sí.
 - Las relaciones entre las tablas son una estructura de árbol.
 - Relaciones padre-hijo.
 
-___
+---
 
-# Modelo de red
+## Modelo de red
 
 - Las relaciones entre tablas son una estructura de red.
 - Las tablas pueden tener más de un padre.
 
-___
+---
 
-# Relacional
+## Modelo relacional
 
 - Los datos se almacenan en tablas relacionadas entre sí.
 
-___
+---
 
-# Modelo de Base de Datos Orientado a Objetos
+## Modelo de Base de Datos Orientado a Objetos
 
-- Los datos se almacenan en objetos. (Los campos son atributos).
+- Los datos se almacenan en objetos (los campos son atributos).
 - Las clases describen objetos similares.
-- Las clases se organizan en una jerarquía de clases como en OOP (pueden tener hijos que heredan sus características).
+- Las clases se organizan en una jerarquía de clases como en la POO (pueden tener hijos que heredan sus características).
 
-___
+---
 
-# Modelos de Base de Datos Hibridos
+## Modelos de Base de Datos Híbridos
 
 - Combinan características de diferentes modelos de base de datos.
 
-___
+---
 
 # Lenguaje de Consulta Estructurado (SQL)
+
+---
+
+
+
 
 ___
 
