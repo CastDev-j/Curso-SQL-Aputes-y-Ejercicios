@@ -44,7 +44,7 @@
 ### Relación entre tablas
 
 | Tabla1 |   | Tabla2 |
-|--------|   |--------|
+|--------|---|--------|
 | Campo1 |<->| Campo3 |
 | Campo2 |   | Campo4 |
 
