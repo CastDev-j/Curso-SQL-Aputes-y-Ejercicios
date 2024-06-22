@@ -1,8 +1,15 @@
 
-<p align="center">
+<div align="center">
   <h1>Introducción a SQL y bases de datos relacionales</h1>
-</p>
+</div>
 
+En este repositorio se encuentran los apuntes de la asignatura de **Bases de Datos** del **Ciclo Formativo de Grado Superior de Desarrollo de Aplicaciones Web**.
+
+Espero que estos apuntes sean de ayuda para ti. Si encuentras algún error o tienes alguna sugerencia, no dudes en decírmelo.
+
+Tambien visita mis otros repositorios donde hay proyectos y apuntes de otras asignaturas.
+
+---
 
 # Tipos de Datos
 
