@@ -80,6 +80,10 @@ ___
 
 ---
 
+# [Relaciones entre tablas](./Relaciones%20entre%20tablas.md)
+
+---
+
 # [Sistema de gestión de bases de datos (SGBD)](./Sistema%20de%20gestion%20de%20bases%20de%20datos.md)
 
 ---
