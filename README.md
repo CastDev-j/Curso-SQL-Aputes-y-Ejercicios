@@ -74,4 +74,15 @@ ___
 
 ---
 
+# Conclusiones
+
+- Las bases de datos permiten almacenar, gestionar y recuperar información de manera estructurada.
+- Existen diferentes modelos de base de datos, cada uno con sus propias características y ventajas.
+
+---
+
+# Recomendaciones
+
+- Leer todos los apuntes de la asignatura de Bases de Datos hechos en este repositorio.
+
 #### [README](README.md)
