@@ -89,7 +89,7 @@ ___
 | 1:M     | Uno a muchos      |
 | M:M     | Muchos a muchos   |
 
-Los símbolosq que se utilizan para representar las relaciones entre tablas pueden variar dependiendo del autor o la fuente.
+Los símbolos que se utilizan para representar las relaciones entre tablas pueden variar dependiendo del autor o la fuente.
 
 ___
 
@@ -97,11 +97,15 @@ ___
 
 - Un registro de una tabla se relaciona con un registro de otra tabla.
 
+**Ejemplo:** una persona tiene un solo pasaporte y un pasaporte pertenece a una sola persona.
+
 ___
 
 ### Uno a muchos
 
 - Un registro de una tabla se relaciona con varios registros de otra tabla.
+
+**Ejemplo:** un profesor puede tener varios estudiantes, pero un estudiante solo puede tener un profesor.
 
 ___
 
@@ -109,17 +113,21 @@ ___
 
 - Varios registros de una tabla se relacionan con varios registros de otra tabla.
 
+**Ejemplo:** un estudiante puede inscribirse en varios cursos y un curso puede tener varios estudiantes.
+
 ---
 
 # Coclusión
 
-- Las bases de datos relacionales permiten relacionar la información de diferentes tablas.
+- Las bases de datos relacionales permiten relacionar tablas entre sí.
 - Las claves primarias y foráneas son fundamentales para establecer relaciones entre tablas.
+- Existen tres tipos de relaciones: uno a uno, uno a muchos y muchos a muchos.
 
 ---
 
 # Recomendación
 
 - Como recomendación, es importante que busques ejemplos de bases de datos relacionales y practiques con ellas.
+- También es importante que entiendas los conceptos de claves primarias y foráneas, ya que son fundamentales para el diseño de bases de datos relacionales.
 
 #### [README](README.md)
