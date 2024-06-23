@@ -10,8 +10,10 @@ Espero que estos apuntes sean de ayuda para ti. Si encuentras algún error o tie
 Tambien visita mis otros repositorios donde hay proyectos y apuntes de otras asignaturas.
 
 ---
-
 # Tipos de Datos
+
+<details>
+<summary>Ver más</summary>
 
 - **Alfanuméricos**
 - **Alfabéticos**
@@ -19,6 +21,8 @@ Tambien visita mis otros repositorios donde hay proyectos y apuntes de otras asi
 - **Imágenes**
 - **Audio**
 - **Video**
+
+</details>
 
 ---
 
