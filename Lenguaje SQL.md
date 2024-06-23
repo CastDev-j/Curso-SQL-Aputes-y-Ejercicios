@@ -258,9 +258,9 @@ ___
 
 ---
 
-### [Ejemplos de SQL](./Ejemplos%SQL.md)
+### [Ejemplos de SQL](./Ejemplos%20SQL.md)
 
-En esta sección se presentan ejemplos de consultas SQL para ilustrar el uso de las cláusulas y funciones mencionadas anteriormente.
+En esta liga se presentan ejemplos de consultas SQL para ilustrar el uso de las cláusulas y funciones mencionadas anteriormente.
 
 # Conclusión
 
@@ -272,7 +272,7 @@ Si no recuerdas alguna cláusula o función, puedes regresar a esta sección par
 
 # Recomendación
 
-Practica con los ejemplos en la liga [Ejemplos de SQL](./Ejemplos&SQL.md) para mejorar tus habilidades en SQL.
+Practica con los ejemplos en la liga [Ejemplos de SQL](./Ejemplos%20SQL.md) para mejorar tus habilidades en SQL.
 
 # Creditos
 
