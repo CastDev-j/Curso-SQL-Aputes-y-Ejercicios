@@ -71,14 +71,14 @@ ___
 
 # Conclusión
 
-- Un DBMS es un software que permite gestionar bases de datos de manera eficiente.
-- Permite a los usuarios crear, mantener, analizar y manipular datos de forma segura y eficaz.
+Un DBMS es un software que permite gestionar bases de datos de manera eficiente.
+Permite a los usuarios crear, mantener, analizar y manipular datos de forma segura y eficaz.
 
 ---
 
 # Recomendación
 
-- Es importante que practiques con un DBMS para familiarizarte con su uso y funcionalidades.
+Es importante que practiques con un DBMS para familiarizarte con su uso y funcionalidades.
 
 #### [README](README.md)
 

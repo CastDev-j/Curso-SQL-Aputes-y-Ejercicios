@@ -54,16 +54,16 @@ ___
 
 # Coclusión
 
-- Las tablas son el elemento básico de una base de datos relacional.
-- Cada tabla almacena datos de un tipo de entidad (personas, productos, etc.).
+Las tablas son el elemento básico de una base de datos relacional.
+Cada tabla almacena datos de un tipo de entidad (personas, productos, etc.).
 
 ---
 
 # Recomendación
 
-- Es importante que practiques con tablas de bases de datos relacionales.
-- También es importante que entiendas los conceptos de tablas, registros y campos, ya que son fundamentales para el diseño de bases de datos relacionales.
-- Mira también [Relaciones entre tablas](./Relaciones%20entre%20tablas.md)
+Es importante que practiques con tablas de bases de datos relacionales.
+También es importante que entiendas los conceptos de tablas, registros y campos, ya que son fundamentales para el diseño de bases de datos relacionales.
+Mira también [Relaciones entre tablas](./Relaciones%20entre%20tablas.md)
 
 
 #### [README](README.md)

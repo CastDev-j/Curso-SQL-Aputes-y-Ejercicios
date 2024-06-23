@@ -12,9 +12,6 @@ Tambien visita mis otros repositorios donde hay proyectos y apuntes de otras asi
 ---
 # Tipos de Datos
 
-<details>
-<summary>Ver más</summary>
-
 - **Alfanuméricos**
 - **Alfabéticos**
 - **Numéricos**
@@ -22,18 +19,11 @@ Tambien visita mis otros repositorios donde hay proyectos y apuntes de otras asi
 - **Audio**
 - **Video**
 
-</details>
-
 ---
 
 # ¿Qué es una base de datos?
 
-<details>
-<summary>Ver más</summary>
-
 Una base de datos es un conjunto organizado de datos que se almacenan y se acceden de manera eficiente. Permite almacenar, gestionar y recuperar información de manera estructurada, lo que facilita la manipulación y el análisis de los datos.
-
-</details>
 
 ---
 
@@ -90,6 +80,10 @@ ___
 ---
 
 # [Sistema de gestión de bases de datos (SGBD)](./Sistema%20de%20gestion%20de%20bases%20de%20datos.md)
+
+---
+
+# [El lenguaje SQL](./Lenguaje%20SQL.md)
 
 ---
 
