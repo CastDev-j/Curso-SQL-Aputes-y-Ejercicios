@@ -127,8 +127,51 @@ ___
 
 ---
 
+# Tipos de relaciones
+
+- **Uno a uno:** un registro de una tabla se relaciona con un registro de otra tabla.
+- **Uno a muchos:** un registro de una tabla se relaciona con varios registros de otra tabla.
+- **Muchos a muchos:** varios registros de una tabla se relacionan con varios registros de otra tabla.
+
+___
+
+| Simbolo | tipo de relación |
+|---------|-------------------|
+| 1:1     | Uno a uno         |
+| 1:M     | Uno a muchos      |
+| M:M     | Muchos a muchos   |
+
+Los símbolosq que se utilizan para representar las relaciones entre tablas pueden variar dependiendo del autor o la fuente.
+
+___
+
+### Uno a uno 
+
+- Un registro de una tabla se relaciona con un registro de otra tabla.
+
+___
+
+### Uno a muchos
+
+- Un registro de una tabla se relaciona con varios registros de otra tabla.
+
+___
+
+### Muchos a muchos
+
+- Varios registros de una tabla se relacionan con varios registros de otra tabla.
+
+
+
+---
+
 # Coclusión
 
 - Las bases de datos relacionales permiten relacionar la información de diferentes tablas.
 - Las claves primarias y foráneas son fundamentales para establecer relaciones entre tablas.
 
+---
+
+# Recomendación
+
+- Como recomendación, es importante que busques ejemplos de bases de datos relacionales y practiques con ellas.
