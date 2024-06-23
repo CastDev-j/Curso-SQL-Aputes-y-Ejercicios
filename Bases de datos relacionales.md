@@ -9,6 +9,7 @@
 - El elemento básico de una base de datos relacional es la tabla o entidad.
 - Las tablas guardan datos de un tipo de entidad (sitios, personas, productos, etc.).
 
+___
 
 **Ejemplo de tabla de personas:**
 
@@ -26,20 +27,21 @@
 - **Tabla:** conjunto de registros.
 - **Registro:** fila de la tabla.
 - **Campo:** columna de la tabla.
+___
 
 ### Tablas
 
 - Las tablas son el elemento básico de una base de datos relacional.
 - Cada tabla almacena datos de un tipo de entidad (personas, productos, etc.).
 
----
+___
 
 ### Registros
 
 - Un registro es una fila de la tabla.
 - Cada registro almacena información de un elemento de la entidad (una persona, un producto, etc.).
 
----
+___
 
 ### Campos
 
@@ -62,24 +64,19 @@
 
 ---
 
-### Ejemplo de relación entre tablas
-
-| Tabla Uno      |        | Tabla Dos      |
-|----------------|--------|----------------|
-| Clave primaria |<------>| Clave foránea  |
-| Campo generíco |        | Campo generíco |
-
----
-
 # Claves primarias y foráneas
 
 - **Clave primaria:** campo que identifica de forma única a cada registro.
 - **Clave foránea:** campo que enlaza dos tablas.
 
+___
+
  ### Clave primaria
 
 - La columna clave primaria identifica de forma única a cada registro/fila.
 - No puede haber dos registros/filas con la misma clave primaria.
+
+___
 
 | StrudentID | CursoID | Grado |
 |------------|---------|-------|
@@ -89,12 +86,15 @@
 
 La columna `StudentID` y `CursoID` componen la clave primaria.
 
----
+___
+
 
 ### Clave foránea/Extranjera
 
 - Se utiliza para relacionar dos tablas.
 - Es un campo de la tabla que contiene los mismos valores que la clave primaria de otra tabla.
+
+___
 
 **Tabla del curso**
 
@@ -104,6 +104,8 @@ La columna `StudentID` y `CursoID` componen la clave primaria.
 | 002     | Historia    | 102        |
 | 003     | Ciencias    | 103        |
 
+___
+
 **Tabla del profesor**
 
 | ProfesorID | ProfesorNombre |
@@ -111,6 +113,8 @@ La columna `StudentID` y `CursoID` componen la clave primaria.
 | 101        | Mr. Smith      |
 | 102        | Ms. Brown      |
 | 103        | Dr. Graff      |
+
+___
 
 **Tabla de los estudiantes**
 
