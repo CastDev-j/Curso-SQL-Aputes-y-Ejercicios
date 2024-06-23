@@ -4,10 +4,9 @@
   <h1>¿Que es un sistema de gestión de bases de datos (DBMS)?</h1>
 </div>
 
-- El (DBMS) interacciona con:
-  - Usuarios.
-  - Aplicaciones.
-  - Bases de datos.
+El sistema de gestión de bases de datos (DBMS) es una herramienta esencial en la programación y almacenamiento de datos. Actuando como intermediario entre usuarios, aplicaciones y bases de datos, el DBMS facilita la gestión y manipulación eficiente de la información. 
+
+Permite a los usuarios acceder y utilizar datos de manera segura, además de integrarse con diversas aplicaciones para el intercambio de información entre sistemas.
 
 ---
 
@@ -71,14 +70,14 @@ ___
 
 # Conclusión
 
-Un DBMS es un software que permite gestionar bases de datos de manera eficiente.
-Permite a los usuarios crear, mantener, analizar y manipular datos de forma segura y eficaz.
+EL uso de un DBMS es fundamental para la gestión eficiente de bases de datos.
+Además, el DBMS proporciona mecanismos para garantizar la integridad, seguridad y privacidad de los datos.
 
 ---
 
 # Recomendación
 
-Es importante que practiques con un DBMS para familiarizarte con su uso y funcionalidades.
+Utiliza un DBMS de tu preferencia para gestionar tus bases de datos de manera eficiente y segura.
 
 #### [README](README.md)
 

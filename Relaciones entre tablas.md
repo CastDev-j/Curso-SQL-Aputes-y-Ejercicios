@@ -119,15 +119,14 @@ ___
 
 # Coclusión
 
-- Las bases de datos relacionales permiten relacionar tablas entre sí.
-- Las claves primarias y foráneas son fundamentales para establecer relaciones entre tablas.
-- Existen tres tipos de relaciones: uno a uno, uno a muchos y muchos a muchos.
+La relación entre tablas es fundamental en el diseño de bases de datos relacionales, ya que permite establecer conexiones entre los datos facilitando la consulta y manipulación de la información.
 
 ---
 
 # Recomendación
 
-- Como recomendación, es importante que busques ejemplos de bases de datos relacionales y practiques con ellas.
-- También es importante que entiendas los conceptos de claves primarias y foráneas, ya que son fundamentales para el diseño de bases de datos relacionales.
+- Como recomendación, es importante que busques ejemplos de bases de datos relacionales.
+
+- También es importante que entiendas los conceptos de claves primarias y foráneas, fundamentales en el diseño de bases de datos relacionales.
 
 #### [README](README.md)
