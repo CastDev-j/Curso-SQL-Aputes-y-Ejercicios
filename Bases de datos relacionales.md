@@ -1,10 +1,8 @@
 #### [README](README.md)
 
 <div align="center">
-  <h1>Introducción a SQL y bases de datos relacionales</h1>
+  <h1>Tablas o Entidades</h1>
 </div>
-
-# Tablas o Entidades
 
 - El elemento básico de una base de datos relacional es la tabla o entidad.
 - Las tablas guardan datos de un tipo de entidad (sitios, personas, productos, etc.).

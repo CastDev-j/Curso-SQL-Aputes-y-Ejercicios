@@ -1,10 +1,8 @@
 #### [README](README.md)
 
 <div align="center">
-  <h1>Introducción a SQL y bases de datos relacionales</h1>
+  <h1>Relaciones entre tablas</h1>
 </div>
-
-# Relaciones entre tablas
 
 - Las tablas se relacionan entre sí mediante claves.
 - Las claves son campos que identifican de forma única a cada registro.
