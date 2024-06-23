@@ -98,5 +98,3 @@ ___
 # Recomendaciones
 
 - Leer todos los apuntes de la asignatura de Bases de Datos hechos en este repositorio.
-
-#### [README](README.md)
