@@ -28,13 +28,21 @@ Tambien visita mis otros repositorios donde hay proyectos y apuntes de otras asi
 
 # ¿Qué es una base de datos?
 
+<details>
+<summary>Ver más</summary>
+
 Una base de datos es un conjunto organizado de datos que se almacenan y se acceden de manera eficiente. Permite almacenar, gestionar y recuperar información de manera estructurada, lo que facilita la manipulación y el análisis de los datos.
+
+</details>
 
 ---
 
 # Modelos de base de datos
 
-- **Fichero plano**
+<details>
+<summary>Ver más</summary>
+
+- **Fichero plano** 
 - **Jerárquico**
 - **En red**
 - **Relacional**
@@ -56,6 +64,7 @@ ___
 - Las relaciones entre tablas son una estructura de red.
 - Las tablas pueden tener más de un padre.
 
+
 ___
 
 ### [Modelo relacional](./Bases%20de%20datos%20relacionales.md)
@@ -75,6 +84,8 @@ ___
 ### Modelos de Base de Datos Híbridos
 
 - Combinan características de diferentes modelos de base de datos.
+
+</details>
 
 ---
 
