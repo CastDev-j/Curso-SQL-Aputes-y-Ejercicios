@@ -18,7 +18,7 @@ En esta sección se presentan las cláusulas y funciones más comunes de SQL par
 ---
 
 
-### Cláusulas
+# Cláusulas
 
 ___
 
