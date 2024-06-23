@@ -24,7 +24,7 @@ ___
 
 <details>
 <summary><strong>Consultas</strong></summary>
-
+<br>
 - **SELECT** - Recuperar datos de una tabla.
 - **WHERE** - Filtrar registros.
 - **ORDER BY** - Ordenar registros.
@@ -51,7 +51,7 @@ ___
 
 <details>
 <summary><strong>Agregación y funciones de resumen</strong></summary>
-
+<br>
 - **COUNT** - Contar registros.
 - **SUM** - Sumar valores.
 - **AVG** - Calcular promedio.
@@ -63,7 +63,7 @@ ___
 
 <details>
 <summary><strong>Manipulación de datos</strong></summary>
-
+<br>
 - **INSERT** - Insertar registros.
 - **UPDATE** - Actualizar registros.
 - **DELETE** - Eliminar registros.
@@ -74,7 +74,7 @@ ___
 
 <details>
 <summary><strong>Transacciones</strong></summary>
-
+<br>
 - **COMMIT** - Confirmar transacción.
 - **ROLLBACK** - Deshacer transacción.
 </details>
@@ -83,7 +83,7 @@ ___
 
 <details>
 <summary><strong>Permisos y seguridad</strong></summary>
-
+<br>
 - **GRANT** - Conceder permisos.
 - **REVOKE** - Revocar permisos.
 </details>
@@ -92,7 +92,7 @@ ___
 
 <details>
 <summary><strong>Creación y modificación de esquemas</strong></summary>
-
+<br>
 - **CREATE** - Crear tablas, vistas, índices, etc.
 - **ALTER** - Modificar tablas, vistas, índices, etc.
 - **DROP** - Eliminar tablas, vistas, índices, etc.
@@ -105,7 +105,7 @@ ___
 
 <details>
 <summary><strong>Información del esquema</strong></summary>
-
+<br>
 - **SHOW** - Mostrar información.
 - **DESCRIBE** - Describir estructura.
 </details>
@@ -114,7 +114,7 @@ ___
 
 <details>
 <summary><strong>Copias de seguridad</strong></summary>
-
+<br>
 - **BACKUP** - Realizar copia de seguridad.
 - **RESTORE** - Restaurar copia de seguridad.
 </details>
@@ -123,7 +123,7 @@ ___
 
 <details>
 <summary><strong>Índices y claves</strong></summary>
-
+<br>
 - **INDEX** - Crear índice.
 - **PRIMARY KEY** - Definir clave primaria.
 - **FOREIGN KEY** - Definir clave foránea.
@@ -134,7 +134,7 @@ ___
 
 <details>
 <summary><strong>Restricciones y valores predeterminados</strong></summary>
-
+<br>
 - **CHECK** - Definir restricción de integridad.
 - **DEFAULT** - Definir valor por defecto.
 - **AUTO_INCREMENT** - Definir incremento automático.
@@ -145,7 +145,7 @@ ___
 
 <details>
 <summary><strong>Funciones de fecha y hora</strong></summary>
-
+<br>
 - **SYSDATE** - Obtener fecha y hora actuales.
 - **NOW** - Obtener fecha y hora actuales.
 - **GETDATE** - Obtener fecha y hora actuales.
@@ -167,7 +167,7 @@ ___
 
 <details>
 <summary><strong>Funciones numéricas</strong></summary>
-
+<br>
 - **ROUND** - Redondear valores.
 - **TRUNC** - Truncar valores.
 - **CEIL** - Redondear hacia arriba.
@@ -191,7 +191,7 @@ ___
 
 <details>
 <summary><strong>Funciones de cadena</strong></summary>
-
+<br>
 - **CONCAT** - Concatenar cadenas.
 - **LENGTH** - Calcular longitud.
 - **TRIM** - Eliminar espacios en blanco.
@@ -211,7 +211,7 @@ ___
 
 <details>
 <summary><strong>Funciones de manejo de valores nulos</strong></summary>
-
+<br>
 - **NVL** - Reemplazar nulos.
 - **DECODE** - Decodificar valores.
 - **CASE** - Estructura condicional.
@@ -223,7 +223,7 @@ ___
 
 <details>
 <summary><strong>Funciones de análisis y clasificación</strong></summary>
-
+<br>
 - **GREATEST** - Mayor valor.
 - **LEAST** - Menor valor.
 - **ROW_NUMBER** - Número de fila.

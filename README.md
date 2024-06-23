@@ -31,6 +31,7 @@ Una base de datos es un conjunto organizado de datos que se almacenan y se acced
 
 <details>
 <summary>Ver más</summary>
+<br>
 
 - **Fichero plano** 
 - **Jerárquico**
