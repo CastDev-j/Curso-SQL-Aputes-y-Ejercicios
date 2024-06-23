@@ -4,9 +4,16 @@
   <h1>¿Que es SQL?</h1>
 </div>
 
-- **SQL** (Structured Query Language).
-- Utilixado en ORACLE, MySQL, SQL Server, PostgreSQL, SQLite y otras bases de datos relacionales.
-- No procedimental - es decir, especifica lo que desea no cómo obtenerlo.
+**SQL** también conocido como `Structured Query Language` es un lenguaje de programación utilizado para gestionar y manipular bases de datos relacionales. SQL permite realizar consultas, actualizaciones, inserciones y eliminaciones de datos en una base de datos, así como definir y modificar la estructura de la base de datos.
+
+Algunos ejemplos de sistemas de gestión de bases de datos relacionales que utilizan SQL son:
+    - [MySQL](https://www.mysql.com/)
+    - [PostgreSQL](https://www.postgresql.org/)
+    - [SQLite](https://www.sqlite.org/)
+    - [Oracle](https://www.oracle.com/database/)
+    - [SQL Server](https://www.microsoft.com/en-us/sql-server/)
+
+En esta sección se presentan las cláusulas y funciones más comunes de SQL para realizar consultas y manipulación de datos en bases de datos relacionales.
 
 ---
 
