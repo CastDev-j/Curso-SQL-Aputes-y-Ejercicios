@@ -1,7 +1,7 @@
 #### [README](README.md)
 
 <div align="center">
-  <h1>Tablas o Entidades</h1>
+  <h1>Tablas o Entidades en bases de datos relacionales</h1>
 </div>
 
 - El elemento básico de una base de datos relacional es la tabla o entidad.
