@@ -74,6 +74,10 @@ ___
 
 ---
 
+# [Sistema de gestión de bases de datos (SGBD)](./Sistema%20de%20gestion%20de%20bases%20de%20datos.md)
+
+---
+
 # Conclusiones
 
 - Las bases de datos permiten almacenar, gestionar y recuperar información de manera estructurada.
